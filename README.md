@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Programmer+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;From+the+Philippines+🇵🇭" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Programmer+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;A+Computer+Science+from+the+Philippines+🇵🇭" alt="Typing SVG" />
 
 <!-- Profile Metrics -->
 [![GitHub followers](https://img.shields.io/github/followers/ianpurifying?logo=github&style=flat-square&color=FF69B4&labelColor=0D1117)](https://github.com/ianpurifying)
