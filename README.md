@@ -14,26 +14,6 @@
 
 ---
 
-### 🧰 Toolbox
-
-<div align="center" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 1rem; justify-items: center;">
-
-#### **Frontend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,bootstrap,jquery,javascript" alt="Frontend" title="Frontend" />
-
-#### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel" alt="Backend" title="Backend" />
-
-#### **Database**
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,mongodb" alt="Database" title="Database" />
-
-#### **Tools**
-<img src="https://skillicons.dev/icons?i=git,postman,figma,vscode" alt="Tools" title="Tools" />
-
-</div>
-
----
-
 ### 📊 Coding Activity
 
 <div align="center">
