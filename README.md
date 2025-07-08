@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated typing text -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Ore wa developer!+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;BSCS+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%B6)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Ore+wa+developer!+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;BSCS+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%B6)
 
 
 <!-- Profile Metrics -->
