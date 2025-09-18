@@ -19,10 +19,10 @@
 
 <img src="https://img.shields.io/badge/🇵🇭%20Philippines%20Rank-Top%206-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="PH Rank Badge" />
 
-💖 Proudly ranked among the **Most-Followed GitHub Developers in the Philippines**  
-with **1,758+ followers** 💖  
+💖 Proudly ranked among the **Most-Followed GitHub Developers in the Philippines** 💖  
 
-_Source: [Top GitHub Users Ranking – Philippines](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/philippines.md)_
+[![Source](https://img.shields.io/badge/Source-Top%20GitHub%20Users%20PH-0D1117?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/philippines.md)
+
 
 </div>
 
