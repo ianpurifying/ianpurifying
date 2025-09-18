@@ -17,7 +17,7 @@
 
 <div align="center">
 
-![Top 6 PH](https://img.shields.io/badge/Rank-Top%206%20in%20PH-ff69b4?style=flat-square)
+![Top 6 PH]([https://img.shields.io/badge/Rank-Top%206%20in%20PH-ff69b4?style=flat-square](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/philippines.md))
 
 
 </div>
