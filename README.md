@@ -17,7 +17,8 @@
 
 <div align="center">
 
-💖 Proud to be ranked **Top {your_rank} Most-Followed GitHub Developer in the Philippines** 💖  
+![Top 6 PH](https://img.shields.io/badge/Rank-Top%206%20in%20PH-ff69b4?style=flat-square)
+
 
 </div>
 
