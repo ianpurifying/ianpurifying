@@ -3,12 +3,21 @@
 <!-- Animated typing text -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Ore+wa+developer!+%F0%9F%92%BB;Asia-based+Computer+Science;A+Tech+Enthusiast+At+Heart)
 
-
 <!-- Profile Metrics -->
 [![GitHub followers](https://img.shields.io/github/followers/ianpurifying?logo=github&style=flat-square&color=FF69B4&labelColor=0D1117)](https://github.com/ianpurifying)
 [![Visitors](https://komarev.com/ghpvc/?username=ianpurifying&color=FF69B4&style=flat-square)](https://github.com/ianpurifying)
 ![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-FF69B4?style=flat-square)
+
+</div>
+
+---
+
+### 🏅 Recognition
+
+<div align="center">
+
+💖 Proud to be ranked **Top {your_rank} Most-Followed GitHub Developer in the Philippines** 💖  
 
 </div>
 
