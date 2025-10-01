@@ -16,7 +16,7 @@
 
 <div align="center">
 
-✨ Ranked among the Top 10 Most Followed GitHub Developers in the Philippines ✨
+✨ Ranked among the **Top 10 Most Followed GitHub Developers** in the Philippines ✨
 
 [![Source](https://img.shields.io/badge/Source-Top%20GitHub%20Users%20PH-0D1117?style=for-the-badge&logo=github&logoColor=white&color=ff69b4)](https://github.com/xiv3r/top-github-users-ranking/blob/main/markdown/followers/philippines.md)
 
