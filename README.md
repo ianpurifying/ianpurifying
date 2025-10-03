@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ianpurifying&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpurifying&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
   
