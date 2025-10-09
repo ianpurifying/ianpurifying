@@ -62,6 +62,5 @@
 
 <div align="center">
   
-✨ "First, solve the problem. Then, write the code." - John Johnson ✨
-
+✨ “The future of AI is not about replacing humans, it's about making them more capable.” — Sundar Pichai, CEO of Google
 </div>
