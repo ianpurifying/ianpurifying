@@ -37,7 +37,7 @@ const ian = {
   currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
   funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
             a prompt → read it manually → send to Gemini for implementation plan
-            → then finally send it to Claude Opus 4.6 😂`,
+            → then finally send the plan to Claude Opus to do the heavy coding 😂`,
   askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
 };
 ```
@@ -112,7 +112,11 @@ const ian = {
 
 <div align="center">
 
-![Snake animation](https://snk.vercel.app/api/github-contribution-grid-snake-dark-svg/ianpurifying)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ianpurifying/ianpurifying/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ianpurifying/ianpurifying/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ianpurifying/ianpurifying/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
