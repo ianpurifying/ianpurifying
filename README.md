@@ -35,7 +35,7 @@ const ian = {
   location: "Philippines 🇵🇭",
   education: "Computer Science Major",
   currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
-  funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
+  funFact: `I write my ideas in Notepad → send to ChatGPT to convert into
             a prompt → read it manually → send to Gemini for implementation plan
             → then finally send the plan to Claude Opus to do the typing 😂`,
   askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
