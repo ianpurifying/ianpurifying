@@ -31,11 +31,13 @@
 ```typescript
 const ian = {
   name: "Ian Purificacion",
-  alias: "ianpurifying",
+  alias: "IAN",
   location: "Philippines 🇵🇭",
   education: "Computer Science Major",
-  currentFocus: ["AI/ML", "Full-Stack Development", "Open Source"],
-  funFact: "I debug with console.log and I'm not ashamed 😂",
+  currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
+  funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
+            a prompt → read it manually → send to Gemini for implementation plan
+            → then finally send it to Claude Opus 4.6 😂`,
   askMeAbout: ["web dev", "tech", "anime", "coding tips"],
 };
 ```
@@ -51,8 +53,6 @@ const ian = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Frontend**
 
@@ -66,8 +66,10 @@ const ian = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase RTDB](https://img.shields.io/badge/Realtime%20DB-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Tools & Platforms**
 
@@ -75,7 +77,6 @@ const ian = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -106,11 +107,11 @@ const ian = {
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Ian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ianpurifying&bg_color=0D1117&color=1F8FEB&line=1F8FEB&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Snake animation](https://github.com/ianpurifying/ianpurifying/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -134,16 +135,6 @@ const ian = {
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+future+of+AI+is+not+about+replacing+humans%2C+it%27s+about+making+them+more+capable.&author=Sundar+Pichai)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://github.com/ianpurifying/ianpurifying/blob/output/github-contribution-grid-snake-dark.svg)
-
-*If the snake doesn't load, [set up the Snake action](https://github.com/Platane/snk) in your profile repo.*
 
 </div>
 
