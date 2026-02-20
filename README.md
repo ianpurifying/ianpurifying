@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1F8FEB&center=true&vCenter=true&width=650&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Yaro+da!+ore+wa+developer+%F0%9F%92%BB;Computer+Science+Major;A+Tech+Enthusiast+At+Heart;Building+the+future%2C+one+commit+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1F8FEB&center=true&vCenter=true&width=650&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;YARODOMO!+ore+wa+developer+%F0%9F%92%BB;Computer+Science+Major;A+Tech+Enthusiast+At+Heart;Building+the+future%2C+one+commit+%E2%9C%A8)
 
 <br/>
 
@@ -37,7 +37,7 @@ const ian = {
   currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
   funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
             a prompt → read it manually → send to Gemini for implementation plan
-            → then finally send the plan to Claude Opus to do the heavy coding 😂`,
+            → then finally send the plan to Claude Opus to do the typing 😂`,
   askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
 };
 ```
