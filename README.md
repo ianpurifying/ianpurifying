@@ -87,12 +87,12 @@ const ian = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ianpurifying&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&title_color=1F8FEB&icon_color=1F8FEB"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpurifying&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1F8FEB"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ianpurifying&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&title_color=1F8FEB&icon_color=1F8FEB&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianpurifying&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1F8FEB&text_color=FFFFFF"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ianpurifying&theme=dark&hide_border=true&background=0D1117&stroke=1F8FEB&ring=1F8FEB&fire=1F8FEB&currStreakLabel=1F8FEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ianpurifying&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1F8FEB&ring=1F8FEB&fire=FF6B6B&currStreakLabel=1F8FEB&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,7 +102,7 @@ const ian = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ianpurifying&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ianpurifying&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -112,7 +112,7 @@ const ian = {
 
 <div align="center">
 
-![Snake animation](https://github.com/ianpurifying/ianpurifying/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ianpurifying/ianpurifying/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
