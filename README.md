@@ -38,7 +38,7 @@ const ian = {
   funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
             a prompt → read it manually → send to Gemini for implementation plan
             → then finally send it to Claude Opus 4.6 😂`,
-  askMeAbout: ["web dev", "tech", "anime", "coding tips"],
+  askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
 };
 ```
 
@@ -67,6 +67,7 @@ const ian = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Firebase RTDB](https://img.shields.io/badge/Realtime%20DB-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
