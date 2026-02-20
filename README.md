@@ -100,16 +100,6 @@ const ian = {
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ianpurifying&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
