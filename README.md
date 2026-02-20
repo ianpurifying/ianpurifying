@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1F8FEB&center=true&vCenter=true&width=650&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;YARODOMO!+ore+wa+developer+%F0%9F%92%BB;Computer+Science+Major;A+Tech+Enthusiast+At+Heart;Building+the+future%2C+one+commit+%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1F8FEB&center=true&vCenter=true&width=650&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ian+Purificacion;Yaro+da!+ore+wa+developer+%F0%9F%92%BB;Computer+Science+Major;A+Tech+Enthusiast+At+Heart;Building+the+future%2C+one+commit+%E2%9C%A8)
 
 <br/>
 
@@ -35,9 +35,9 @@ const ian = {
   location: "Philippines 🇵🇭",
   education: "Computer Science Major",
   currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
-  funFact: `I write my ideas in Notepad → send to ChatGPT to convert into
-            a prompt → read it manually → send to Gemini to create an implementation plan
-            → then finally send the plan to Claude Opus to do the typing 😂`,
+  funFact: `I write my system idea in Notepad → send to ChatGPT to convert into
+            a prompt → read it manually → send to Gemini for implementation plan
+            → then finally send the plan to Claude Opus to do the heavy coding 😂`,
   askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
 };
 ```
@@ -59,6 +59,8 @@ const ian = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -93,6 +95,16 @@ const ian = {
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ianpurifying&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=1F8FEB&ring=1F8FEB&fire=FF6B6B&currStreakLabel=1F8FEB&sideLabels=FFFFFF&dates=AAAAAA)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ianpurifying&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
