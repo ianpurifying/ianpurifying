@@ -37,7 +37,7 @@ const ian = {
   currentFocus: ["Modern Tech AI", "Full-Stack Development", "Open Source"],
   funFact: `I write my ideas in Notepad → send to ChatGPT to convert into
             a prompt → read it manually → send to Gemini to create an implementation plan
-            → then finally send the plan to Claude Opus to do the coding fast 😂`,
+            → then finally send the plan to Claude Opus to do the coding 😂`,
   askMeAbout: ["web dev", "tech", "manhwa", "coding tips"],
 };
 ```
