@@ -114,7 +114,6 @@ const ian = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F8FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ianp.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-005582?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianpurifying)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianpurificacion2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ianpurifying)
 [![CV](https://img.shields.io/badge/Download%20CV-1F8FEB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/ianpurifying/ianpurifying/main/ian_purificacion_cv.pdf)
 
 </div>
