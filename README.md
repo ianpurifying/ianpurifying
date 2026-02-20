@@ -112,7 +112,7 @@ const ian = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ianpurifying/ianpurifying/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://snk.vercel.app/api/github-contribution-grid-snake-dark-svg/ianpurifying)
 
 </div>
 
