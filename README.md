@@ -36,7 +36,7 @@ const ian = {
   education: "Bachelor of Science (B.S.) in Computer Science",
   experience: "3 years of freelance experience building full-stack web apps",
   currentFocus: ["Modern Tech & AI", "Full-Stack Development"],
-  askMeAbout: ["Web-App Development", "Tech Trends", "Manhwa", "Coding Tips & Best Practices"],
+  askMeAbout: ["Full-Stack Development", "Tech Trends", "Manhwa", "Coding Tips & Best Practices"],
   motto: "Developing scalable, secure, optimized, cost-efficient, and high-performance systems.",
 };
 ```
