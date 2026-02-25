@@ -70,9 +70,8 @@ const ian = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![Firebase RTDB](https://img.shields.io/badge/Realtime%20DB-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 **Tools & Platforms**
 
