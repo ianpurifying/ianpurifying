@@ -37,7 +37,7 @@ const ian = {
   experience: "3 years of freelance experience building full-stack web apps",
   currentFocus: ["Modern Tech & AI", "Full-Stack Development"],
   askMeAbout: ["Tech Trends", "Manhwa", "Coding Tips & Best Practices"],
-  motto: "Developing scalable, secure, optimized, cost-efficient, and high-performance systems.",
+  motto: "Develop a scalable, secure, optimized, cost-efficient, and high-performance system.",
 };
 ```
 
