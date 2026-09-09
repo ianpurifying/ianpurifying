@@ -29,12 +29,11 @@
 ```typescript
 const ian = {
   name: "Ian Purificacion",
-  alias: "IAN",
   website: "https://ianpurif.vercel.app",
   location: "Philippines 🇵🇭",
   education: "Bachelor of Science in Computer Science",
-  currentFocus: ["Modern Tech & AI", "Full-Stack Development"],
-  askMeAbout: ["Tech Trends", "Manhwa", "Coding Tips & Best Practices"],
+  currentFocus: ["Modern Tech & AI", "Software Engineering"],
+  askMeAbout: ["Tech Trends", "AI", "Coding Tips & Best Practices", "Manhwa"],
   motto: "Develop a scalable, secure, optimized, cost-efficient, and high-performance system.",
 };
 ```
