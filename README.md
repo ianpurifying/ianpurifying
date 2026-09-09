@@ -41,8 +41,6 @@ const ian = {
 
 ---
 
-## Quote
-
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=If+they+don%27t+support+you+at+%60localhost%3A3000%60%2C+they+don%27t+deserve+you+at+%60.vercel.app%60.&author=Claudious+GPTon)
